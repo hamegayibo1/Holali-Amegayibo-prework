@@ -6,30 +6,36 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 div {
   color: white;
-  font-size: 12px;
+  font-size: 12px; 
 }
 
 h1 {
   text-align: center;
   color: black;
   font-size: 10px;
+  padding: 30px 10px;
 }
 
 h2 {
   text-align: center;
   color: white;
-  font-size: 48px;
+  font-size: 50px;
 }
 
 h3{
-  text-align: center;
   color: white;
   font-size: 10px;
-  border-style:groove;
-  border-width: 1px;
-  border: 2px solid white;
+  border: 1px solid white;
+  width: 100px;
+  text-align: center;
+  margin: 50px 100px 100px 600px;
 }
 
 
