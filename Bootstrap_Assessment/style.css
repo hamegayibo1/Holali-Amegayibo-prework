@@ -1,0 +1,41 @@
+body {
+< HEAD
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  color: white;
+  font-size: 12px;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 10px;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-size: 48px;
+}
+
+h3{
+  text-align: center;
+  color: white;
+  font-size: 10px;
+  border-style:groove;
+  border-width: 1px;
+  border: 2px solid white;
+}
+
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> bee138aa76987323dcfa8773e3af32c9964087ff
