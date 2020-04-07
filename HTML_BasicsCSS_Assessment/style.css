@@ -2,5 +2,40 @@ body {
   margin: 0;
   line-height: 1.5;
   text-transform: uppercase;
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+body {
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  color: white;
+  font-size: 12px; 
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 10px;
+  padding: 30px 10px;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+
+h3{
+  color: white;
+  font-size: 10px;
+  border: 1px solid white;
+  width: 100px;
+  text-align: center;
+  margin: 50px 100px 100px 600px;
+}
+
 
